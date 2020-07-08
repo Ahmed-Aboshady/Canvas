@@ -1,0 +1,77 @@
+#container input {
+    margin: 20px;
+}
+
+#container2 input {
+    margin: 20px;
+}
+
+#container2 {
+    border: 1px solid purple;
+}
+
+#container {
+    border: 1px solid purple;
+}
+
+div {
+    text-align: center;
+    margin-top: 20px;
+}
+
+#submit {
+    margin-top: 20px;
+}
+
+#per {
+    background-color: rgb(250, 237, 217);
+    width: 200px;
+    height: 200px;
+    float: right;
+    display: block;
+    opacity: 0;
+}
+
+#cancontainer {}
+
+#mycan {
+    /* width: 1200px;
+    height: 600px; */
+    float: left;
+}
+
+#cancontainer div {
+    display: inline-block;
+}
+
+#color1 {
+    width: 20px;
+    height: 20px;
+    background-color: #4D6F8C;
+    margin-top: 0;
+}
+
+#color2 {
+    width: 20px;
+    height: 20px;
+    background-color: #F2B28D;
+    margin-top: 0;
+}
+
+#color3 {
+    width: 20px;
+    height: 20px;
+    background-color: #BF7256;
+    margin-top: 0;
+}
+
+#color4 {
+    width: 20px;
+    height: 20px;
+    background-color: rgb(219, 209, 209);
+    margin-top: 0;
+}
+
+#mySVG {
+    opacity: 0;
+}
